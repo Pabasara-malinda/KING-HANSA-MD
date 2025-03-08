@@ -15,7 +15,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "rN4VgZKB#5iwxKDk9iYE22gona2YP6KE1LNyZXRwJIeEUPkqu4fc",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/cd454f186aa11281fdbaa.png",
 ALIVE_MSG: process.env.ALIVE_MSG || "HELLOW THEIR, KING HANSA IS ALIVE...\n\nOWNER: HANSA DEWMINA\n\nTHANKS FOR USING KING HANSA MD\n\n> *© ᴋɪɴɢ ʜᴀɴꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ*/n/n*> ɢɪᴛʜᴜʙ :* github.com/DEWMINA-HD/KING-HANSA-MD-V1",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
